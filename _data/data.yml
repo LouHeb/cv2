@@ -31,31 +31,64 @@ sidebar:
   pdf: https://raw.githubusercontent.com/LouHeb/cv/master/assets/images/CV.pdf
 
 
+  languages:
+    title: Languages
+    info:
+      - idiom: French
+        level: Native
+
+      - idiom: English
+        level: Professional - C1 Adv.
+
+      - idiom: Spanish
+        level: Basics
+
+      - idiom: German
+        level: Beginner
+
+  interests:
+    title: Interests
+    info:
+      - item: Basketball
+        link:
+
+      - item: Arts (drawing, painting)
+        link:
+
+      - item: Social problematics
+        link:
+
+      - item: 
+        link:
+
+      - item: (French driving license since 2015)
+        link:
+
+
+career-profile:
+    title: Teaching experience
+    summary: |
+      · 2020 - 2022: Mechanical system conception, Technical drawing and Computer-aided design (undergraduates from <a href="https://www.insa-lyon.fr/en/node/17" style="color: #03053f; background-color: #e8f0ff"  target="_blank">INSA Lyon</a>)
+
+
 education:
-  title: Education
-  info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+    title: Education
+    info:
+      - degree: 'MSc in Material Sciences & Mechanical Engineering (<a href="https://www.universite-paris-saclay.fr/en/education/master/mechanics/m2-mechanics-materials-engineering-and-integrity-structures" style="color: white; background-color: #7175e9"  target="_blank">MAGIS</a>)'
+        university: École Normale Supérieure de Paris-Saclay
+        time: 2016 - 2020
+        details: |
+          MAGIS - Material and Engineering sciences (Material Sciences, Constitutive equations, Numerical-experimental methods, Metal processing, Computed-aided design...)
+
+      - degree: BSc in Physics & Engineering
+        university: École Normale Supérieure de Paris-Saclay
+        time: 2015 - 2016
+
+      - degree: Preparatory Classes in Engineering Sciences
+        university: Lycée Saint-Louis (Paris)
+        time: 2013 - 2015
+        details: |
+          Intensive courses in Mathematics, Physics and Engineering designed to prepare for competitive entrance exams to French Grandes Écoles
 
 experiences:
   title: Experiences

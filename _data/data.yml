@@ -31,232 +31,217 @@ sidebar:
   pdf: https://raw.githubusercontent.com/LouHeb/cv/master/assets/images/CV.pdf
 
 
-  languages:
-    title: Languages
-    info:
-      - idiom: French
-        level: Native
-
-      - idiom: English
-        level: Professional - C1 Adv.
-
-      - idiom: Spanish
-        level: Basics
-
-      - idiom: German
-          level: Beginner
-
-  interests:
-    title: Interests
-    info:
-      - item: Basketball
-        link:
-
-      - item: Arts (drawing, painting)
-        link:
-
-      - item: Social problematics
-        link:
-
-      - item: 
-        link:
-
-      - item: (French driving license since 2015)
-        link:
-
-career-profile:
-    title: Teaching experience
-    summary: |
-      · 2020 - 2022: Mechanical system conception, Technical drawing and Computer-aided design (undergraduates from <a href="https://www.insa-lyon.fr/en/node/17" style="color: #03053f; background-color: #e8f0ff"  target="_blank">INSA Lyon</a>)
-
-
 education:
-    title: Education
-    info:
-      - degree: 'MSc in Material Sciences & Mechanical Engineering (<a href="https://www.universite-paris-saclay.fr/en/education/master/mechanics/m2-mechanics-materials-engineering-and-integrity-structures" style="color: white; background-color: #7175e9"  target="_blank">MAGIS</a>)'
-        university: École Normale Supérieure de Paris-Saclay
-        time: 2016 - 2020
-        details: |
-          MAGIS - Material and Engineering sciences (Material Sciences, Constitutive equations, Numerical-experimental methods, Metal processing, Computed-aided design...)
-
-      - degree: BSc in Physics & Engineering
-        university: École Normale Supérieure de Paris-Saclay
-        time: 2015 - 2016
-
-      - degree: Preparatory Classes in Engineering Sciences
-        university: Lycée Saint-Louis (Paris)
-        time: 2013 - 2015
-        details: |
-          Intensive courses in Mathematics, Physics and Engineering designed to prepare for competitive entrance exams to French Grandes Écoles
-
-
+  title: Education
+  info:
+  - degree: MSc in Computer Science
+    university: University of London
+    time: 2011 - 2012
+    details: |
+      Describe your study here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+      sociis natoque penatibus et magnis dis parturient montes, nascetur
+      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+      pretium quis, sem.
+        - Bullet point
+        - Bullet point
+  - degree: BSc in Applied Mathematics
+    university: Bristol University
+    time: 2007 - 2011
+    details: |
+      Describe your study here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+      sociis natoque penatibus et magnis dis parturient montes, nascetur
+      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+      pretium quis, sem.
+        - Bullet point
+        - Bullet point
 
 experiences:
-    title: Research projects
-    info:
-      - role: '<p style="color: #4c24e0">Postdoctoral fellowship</p> Identification of in-service temperature for a new PBF-LB VDM® 780 Alloy '
-        time: since 2025 
-        company: '<a href="https://www.bam.de/Navigation/EN/Home/home.html" style="color: #4c24e0; background-color: #e8f0ff"  target="_blank">Bundesanstalt für Materialforschung und - prüfung</a> - Berlin  <img src="https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg" width="20" title="Germany">'
-        boss: '<i>with Itziar Serrano-Munoz & Mauro Madia '
-        details: |
-          High temperature fatigue experiments on the VDM® 780 Nickel-based Superalloy (in partnership with the German DLR)
+  title: Experiences
+  info:
+  - role: Lead Developer
+    time: 2015 - Present
+    company: Startup Hubs, San Francisco
+    details: |
+      Describe your role here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+      Cum sociis natoque penatibus et magnis dis parturient montes,
+      nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+      error sit voluptatem accusantium doloremque laudantium, totam rem
+      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+      architecto beatae vitae dicta sunt explicabo.
+        - Bullet point
+        - Bullet point
+  - role: Senior Software Engineer
+    time: 2014 - 2015
+    company: Google, London
+    details: |
+      Describe your role here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+      Cum sociis natoque penatibus et magnis dis parturient montes,
+      nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      pellentesque eu, pretium quis, sem.
+        - Bullet point
+        - Bullet point
+  - role: UI Developer
+    time: 2012 - 2014
+    company: Amazon, London
+    details: |
+      Describe your role here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+      Cum sociis natoque penatibus et magnis dis parturient montes,
+      nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      pellentesque eu, pretium quis, sem.
+        - Bullet point
+        - Bullet point
 
-      - role: '<p style="color: #4c24e0">PhD thesis</p><a href="https://hal.science/tel-04541514v1" style="color: #2f92cb; background-color: #e8f0ff"  target="_blank">Study on the effect of the environment on internal fatigue crack propagation in Ti-6Al-4V</a>'
-        time: 2020 - 2023
-        company: '<a href="https://mateis.insa-lyon.fr/fr" style="color: #4c24e0; background-color: #e8f0ff"  target="_blank">Matéis Laboratory</a> - Lyon  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png" width="20" title="France">'
-        boss: '<i>with Jean-Yves Buffiere, Thierry Palin-Luc (<a href="https://www.i2m.u-bordeaux.fr/" style="color: #070b88; background-color: #e8f0ff"  target="_blank">I2M Lab</a> - Bordeaux) & Nicolas Ranc (<a href="https://pimm.artsetmetiers.fr/" style="color: #070b88; background-color: #e8f0ff"  target="_blank">Pimm Lab</a> - Paris) </i>'
-        details: |
-          Synchrotron experiment to study Ti-6Al-4V fatigue crack propagation in the gigacycle regime.
-          Study of the effect environment: comparison of crack propagation in air and in vacuum. 
-          This work has been nominated for the <a href="https://www.francetitane.fr/resultats-prix-de-these-titane-2024/" style="color: #070b88; background-color: #e8f0ff"  target="_blank">2024 Thesis Price</a> of the French Titanium Association.
-            - Protocol adaptation and sample design
-            - Tomography data post-processing and fracture surface analysis
-            - Finite element analysis and thermal aspect study
+certifications:
+  title: Certifications
+  list:
+  - name: CV Builder
+    start: 2020
+    end: 2021
+    organization: Microsoft
+    credentialid: 111-222
+    credentialurl: www.google.com
+    credentialname: Google
+    details: |
+      Details about cert. Lorem ipsum dolor sit amet, consectetur
+      adipiscing elit.
+      Nullam eget orci purus. Nullam ultrices neque nibh.
+      Aenean fermentum, felis vulputate suscipit accumsan,
+      sem enim bibendum augue, sed convallis arcu lacus at dui.
+      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+      Praesent venenatis erat non augue suscipit consectetur.
 
-      - role: '<p style="color: #4c24e0">Research internship</p> In-situ synchrotron tomography of laser powder bed fusion additive manufacturing'
-        time: 2020 (6 months)
-        company: '<a href="https://simap.grenoble-inp.fr/" style="color: #4c24e0; background-color: #e8f0ff" target="_blank">Simap Lab</a> in Grenoble & <a href="https://pimm.artsetmetiers.fr/" style="color: #4c24e0; background-color: #e8f0ff" target="_blank">Pimm Lab</a> in Paris <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png" width="20" title="France">'
-        boss: <i>with Pierre Lhuissier, Guilhem Martin, Patrice Peyre & Frédéric Coste</i>
-        details: |
-          Synchrotron microtomography adapted experimental device to study the impacting parameters of the LPBF process
-            - Adaptation of the machine to laboratory tests
-            - Preliminary tests to validate the protocol
-            - Tomography data post-processing
-
-      - role: '<p style="color: #4c24e0">Engineering internship</p> Creation of a fatigue test bench for a humanoid-robot foot'
-        time: 2018/19 (6 months)
-        company: '<a href="https://en.wandercraft.eu/" style="color: #4c24e0; background-color: #e8f0ff"  target="_blank">Wandercraft</a> - Paris  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png" width="20" title="France">'
-        details: |
-            - Design and assembly of the test bench
-            - Study on materials and processes by considering mechanical and economic aspects for production-oriented approach
-
-      - role: '<p style="color: #4c24e0">Research internship</p> Numerical simulation at an atomistic scale of the solute segregation toward grain boundaries in an Al-Mg Alloy'
-        time: 2017/18 (10 months)
-        company: '<a href="https://mtrl.ubc.ca/research/research-groups/microstructure/" style="color: #4c24e0; background-color: #e8f0ff"  target="_blank">Microstructure group</a> - The University of British Columbia - Vancouver  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/1920px-Flag_of_Canada_%28Pantone%29.svg.png" width="25" title="Canada">'
-        boss: <i>with Chad W. Sinclair</i>
-        details: |
-            - Modelisation of grain boundaries and atomistic segregation with a hybrid Molecular Dynamics method
-            - Post-processing of numerical data to build free energy diagrams
-
-      - role: '<p style="color: #4c24e0">Engineering internship</p> Evaluation of the control loads on a H175 helicopter'
-        time: 2017 (14 weeks)
-        company: '<a href="https://www.airbus.com/en/products-services/helicopters" style="color: #4c24e0; background-color: #e8f0ff"  target="_blank">Airbus Helicopters</a> - Marignane  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png" width="20" title="France">'
+      Second paragraph. Sed eleifend enim ante, vitae efficitur purus
+      fringilla vel. Ut euismod, sem sed vulputate venenatis,
+      justo diam viverra velit, sed rhoncus leo leo eu justo.
+      Suspendisse placerat risus ante, sed porta nisi blandit at.
+  - name: Git learning
+    start: 2019
+    end:
+    organization: Microsoft
+    credentialid: 111-222
+    credentialurl: www.github.com
+    credentialname: Github
+    details: |
+      Older certification. Lorem ipsum dolor sit amet, consectetur
+      adipiscing elit.
+      Nullam eget orci purus. Nullam ultrices neque nibh.
+      Aenean fermentum, felis vulputate suscipit accumsan,
+      sem enim bibendum augue, sed convallis arcu lacus at dui.
+      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+      Praesent venenatis erat non augue suscipit consectetur.
 
 projects:
-    title: Experimental skills
-    assignments:
-      - title: '<a href="https://en.wikipedia.org/wiki/Scanning_electron_microscope" style="color: #03053f"  target="_blank">SEM</a>  & <a href="https://en.wikipedia.org/wiki/Electron_backscatter_diffraction" style="color: #03053f"  target="_blank">EBSD</a> '
-        #link: "#"
-        tagline: "Scanning electron microscope used to analyse metal microstructure."
+  title: Projects
+  intro: >
+    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+  assignments:
+  - title: Velocity
+    link: "#hook"
+    tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: '<a href="https://www.struers.com/en/Knowledge/Grinding-and-polishing#grindingpolishingmethods" style="color: #03053f"  target="_blank">Polishing and Sample preparation</a>'
-        #link: "#"
-        tagline: "Particularly on Ti-6Al-4V samples in order to analyse it with optical microscopy and SEM."
+  - title: DevStudio
+    link: "#"
+    tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: '<a href="https://en.wikipedia.org/wiki/X-ray_microtomography" style="color: #03053f"  target="_blank">X-ray microtomography</a>'
-        #link: "#"
-        tagline: "In-lab tomograph (<i>v[tome]x</i>)"
+  - title: Tempo
+    link: "#"
+    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: '<a href="https://www.esrf.fr/home.html" style="color: #03053f"  target="_blank">Synchrotron experiment</a>'
-        #link: "#"
-        tagline: "Taking part in four-day-long synchrotron projects, from the proposal submission to the data post-processing."
+  - title: Atom
+    link: "#"
+    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
+  - title: Delta
+    link: "#"
+    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+oss:
+  title: OSS Contributions
+  intro: >
+    You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+  contributions:
+  - title: Tempo
+    link: "#"
+    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+  - title: Atom
+    link: "#"
+    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+  - title: Delta
+    link: "#"
+    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications &amp; Conferences
-    papers:
-#      - title: <i>Submitted in 2023 -</i> Environment effect on internal fatigue crack propagation studied with in-situ X-ray microtomography
-#        #link: "#"
-#        authors: L. Hébrard, J.Y. Buffiere, T. Palin-Luc, N. Ranc, M. Majkut, A. King, A. Weck
-#        #conference: "#"
-        
-      - title: "2025 - Deformation mechanisms at the tip of internal fatigue cracks in vacuum and in the presence of an air environment in a Ti alloy"
-        link: "https://doi.org/10.1016/j.ijfatigue.2024.108729"
-        authors: L. Hébrard, T. Palin-Luc, N. Ranc, A. Weck, T. Douillard, N. Blanchard, S. Dancette, J.Y. Buffiere
-        conference: "International Journal of Fatigue, Volume 193, 108729 - April 2025"
-        
-      - title: "2024 - Grain-level effects on in-situ deformation-induced phase transformations in a complex-phase steel using 3DXRD and EBSD"
-        link: "https://doi.org/10.1016/j.actamat.2023.119608"
-        authors: J. Ball, C. Davis, C. Slater, H. Vashishtha, M. Said, L. Hébrard, F. Steinhilber, J. Wright, T. Connolley, S. Michalik, D. Collins
-        conference: "Acta Materialia - Vol. 265, 119608 - 2024"
-        
-      - title: "2023 - Environment effect on internal fatigue crack propagation studied with in-situ X-ray microtomography"
-        link: "https://doi.org/10.1016/j.msea.2023.145462"
-        authors: L. Hébrard, J.Y. Buffiere, T. Palin-Luc, N. Ranc, M. Majkut, A. King, A. Weck
-        conference: "Materials Science and Engineering: A - Vol. 882, 145462 - 2023"
+  title: Publications
+  intro: |
+    You can list your publications in this section. Lorem ipsum dolor sit
+    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+    bibendum fringilla a eu lectus.
+  papers:
+  - title: The Art of Computer Programming
+    link: "#"
+    authors: Donald E. Knuth
+    conference: Addison-Wesley, 1968
 
-      - title: "2022 - Miniature laser powder bed fusion system for in situ synchrotron x-ray micro-computed tomography experiments at the European Synchrotron Radiation Facility "
-        link: "https://doi.org/10.1063/5.0090623"
-        authors: P. Lhuissier, L. Hébrard, X. Bataillon, P. Lapouge, F. Coste, P. Peyre, E. Boller, J.J. Blandin, L. Salvo, G. Martin
-        conference: "Review of Scientific Instruments - Vol 93, Issue 8 - 2022"
+  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+    link: "#"
+    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: "2018 - The Double Drum Peel (DDP) test: A new concept to evaluate the delamination fracture toughness of cylindrical laminates"
-        link: "https://doi.org/10.1016/j.compositesa.2018.07.020"
-        authors: F. Daghia, C. Cluzel, L. Hébrard, F. Churlaud, B. Courtemanche
-        conference: "Composites Part A: Applied Science and Manufacturing - 113, pp. 83-94 - 2018
-        _______________________"
+  - title: A syntax directed compiler for Algol 60
+    link: "#"
+    authors: Edgar T. Irons
+    conference: "Comm. ACM 4 (1961), 51–55"
 
-      - title: 2023 - FEMS Euromat 2023
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1920px-Flag_of_Germany.svg.png"
-        link: "https://euromat2023.com/"
-        authors: Talk - " Observation of the environment effect on internal fatigue crack propagation in Ti-6Al-4V with in-situ X-ray microtomography"
+recommendations:
+  title: Recommendations
+  list:
+  - person: Yareli Perez
+    email: perezyareli@example.com
+    phone: 012 345 6789
+    role: General Director at example.com
+    recommendation: |
+      Alan Doe is a super employee!
+  - person: Lara Henderson
+    email: larah@example.com
+    phone: 012 345 6789
+    role: General Director at example.com
+    recommendation: |
+      I would like to work with Alan Doe again!
 
-      - title: 2022 - 11th European Solid Mechanics Conference
-        image: "https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg"
-        link: "https://www.esmc2022.org/"
-        authors: Talk - "3D characterization of internal fatigue cracks in metallic material during gigacycle fatigue"
-
-      - title: 2022 - 18th European Mechanics of Materials Conference
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg/1920px-Flag_of_the_United_Kingdom_%281-2%29.svg.png"
-        link: "https://euromech.org/conferences/EMMC/EMMC18"
-        authors: Talk - "3D characterization of internal fatigue cracks in Ti-6al-4V during gigacycle fatigue"
-
+      He is a great employee!
 
 skills:
-    title: Computational skills
-    intro: 
-      "<i>(bar minimum: 1 year of experience, bar maximum: 5 years or more of experience)</i>"
+  title: Skills &amp; Proficiency
 
-    toolset:
+  toolset:
+  - name: Python & Django
+    level: 98%
 
-      - name:  '<a href="https://www.python.org/" style="color: #1a0c88"  target="_blank">Python</a>'
-        level: 98%
-        NbYear: 5+
+  - name: Javascript & jQuery
+    level: 98%
 
-      - name: '<a href="https://www.mathworks.com/products/matlab.html" style="color: #1a0c88"  target="_blank">Matlab</a>'
-        level: 60%
+  - name: Angular
+    level: 98%
 
-      - name: '<a href="https://imagej.net/ij/" style="color: #1a0c88"  target="_blank">ImageJ / Fiji</a>'
-        level: 60%
+  - name: HTML5 & CSS
+    level: 95%
 
-      - name: '<a href="https://www.3ds.com/products-services/simulia/products/abaqus/" style="color: #1a0c88"  target="_blank">Abaqus</a> & <a href="https://gmsh.info/" style="color: #1a0c88"  target="_blank">Gmsh</a>'
-        level: 80%
+  - name: Ruby on Rails
+    level: 85%
 
-      - name: '<a href="http://www-cast3m.cea.fr/" style="color: #1a0c88"  target="_blank">Cast3M</a>'
-        level: 20%
-
-      - name: '<a href="https://solidedge.siemens.com/en/" style="color: #1a0c88"  target="_blank">SolidEdge</a>'
-        level: 60%
-
-      - name: '<a href="https://www.3ds.com/products-services/catia/" style="color: #1a0c88"  target="_blank">Catia V5</a>'
-        level: 40%
-
-      - name: '<a href="https://www.solidworks.com/" style="color: #1a0c88"  target="_blank">Solidworks</a>'
-        level: 20%
-
-      - name: '<a href="https://www.latex-project.org/" style="color: #1a0c88"  target="_blank">Latex</a>'
-        level: 98%
-
-      - name: '<a href="https://www.lammps.org/#gsc.tab=0" style="color: #1a0c88"  target="_blank">LAMMPS</a>'
-        level: 20%
-
-      - name: '<a href="https://fr.wikipedia.org/wiki/Microsoft_Excel" style="color: #1a0c88"  target="_blank">Microsoft Excel</a>'
-        level: 98%
-
-      - name: '<a href="https://fr.wikipedia.org/wiki/Adobe_Photoshop" style="color: #1a0c88"  target="_blank">Adobe Photoshop</a>'
-        level: 98%
-
-        
+  - name: Sketch & Photoshop
+    level: 60%
 
 footer: >
-    Last update: December 2024 - Design inspired by <a href="https://github.com/sharu725/online-cv" target="_blank" rel="nofollow">Sharath Kumar </a>
+  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

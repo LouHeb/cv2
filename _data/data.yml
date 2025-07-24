@@ -4,7 +4,7 @@
 
 sidebar:
   position: right # position of the sidebar : left or right
-  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
@@ -91,45 +91,56 @@ education:
           Intensive courses in Mathematics, Physics and Engineering designed to prepare for competitive entrance exams to French Grandes Écoles
 
 experiences:
-  title: Experiences
+  title: Research projects
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+    - role: '<p style="color: #4c24e0">Postdoctoral fellowship</p> Identification of in-service temperature for a new PBF-LB VDM® 780 Alloy '
+      time: since 2025 
+      company: '<a href="https://www.bam.de/Navigation/EN/Home/home.html" style="color: #4c24e0; background-color: #e8f0ff"  target="_blank">Bundesanstalt für Materialforschung und - prüfung</a> - Berlin  <img src="https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg" width="20" title="Germany">'
+      boss: '<i>with Itziar Serrano-Munoz & Mauro Madia '
+      details: |
+        High temperature fatigue experiments on the VDM® 780 Nickel-based Superalloy (in partnership with the German DLR)
+
+    - role: '<p style="color: #4c24e0">PhD thesis</p><a href="https://hal.science/tel-04541514v1" style="color: #2f92cb; background-color: #e8f0ff"  target="_blank">Study on the effect of the environment on internal fatigue crack propagation in Ti-6Al-4V</a>'
+      time: 2020 - 2023
+      company: '<a href="https://mateis.insa-lyon.fr/fr" style="color: #4c24e0; background-color: #e8f0ff"  target="_blank">Matéis Laboratory</a> - Lyon  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png" width="20" title="France">'
+      boss: '<i>with Jean-Yves Buffiere, Thierry Palin-Luc (<a href="https://www.i2m.u-bordeaux.fr/" style="color: #070b88; background-color: #e8f0ff"  target="_blank">I2M Lab</a> - Bordeaux) & Nicolas Ranc (<a href="https://pimm.artsetmetiers.fr/" style="color: #070b88; background-color: #e8f0ff"  target="_blank">Pimm Lab</a> - Paris) </i>'
+      details: |
+        Synchrotron experiment to study Ti-6Al-4V fatigue crack propagation in the gigacycle regime.
+        Study of the effect environment: comparison of crack propagation in air and in vacuum. 
+        This work has been nominated for the <a href="https://www.francetitane.fr/resultats-prix-de-these-titane-2024/" style="color: #070b88; background-color: #e8f0ff"  target="_blank">2024 Thesis Price</a> of the French Titanium Association.
+          - Protocol adaptation and sample design
+          - Tomography data post-processing and fracture surface analysis
+          - Finite element analysis and thermal aspect study
+
+    - role: '<p style="color: #4c24e0">Research internship</p> In-situ synchrotron tomography of laser powder bed fusion additive manufacturing'
+      time: 2020 (6 months)
+      company: '<a href="https://simap.grenoble-inp.fr/" style="color: #4c24e0; background-color: #e8f0ff" target="_blank">Simap Lab</a> in Grenoble & <a href="https://pimm.artsetmetiers.fr/" style="color: #4c24e0; background-color: #e8f0ff" target="_blank">Pimm Lab</a> in Paris <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png" width="20" title="France">'
+      boss: <i>with Pierre Lhuissier, Guilhem Martin, Patrice Peyre & Frédéric Coste</i>
+      details: |
+        Synchrotron microtomography adapted experimental device to study the impacting parameters of the LPBF process
+          - Adaptation of the machine to laboratory tests
+          - Preliminary tests to validate the protocol
+          - Tomography data post-processing
+
+    - role: '<p style="color: #4c24e0">Engineering internship</p> Creation of a fatigue test bench for a humanoid-robot foot'
+      time: 2018/19 (6 months)
+      company: '<a href="https://en.wandercraft.eu/" style="color: #4c24e0; background-color: #e8f0ff"  target="_blank">Wandercraft</a> - Paris  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png" width="20" title="France">'
+      details: |
+          - Design and assembly of the test bench
+          - Study on materials and processes by considering mechanical and economic aspects for production-oriented approach
+
+    - role: '<p style="color: #4c24e0">Research internship</p> Numerical simulation at an atomistic scale of the solute segregation toward grain boundaries in an Al-Mg Alloy'
+      time: 2017/18 (10 months)
+      company: '<a href="https://mtrl.ubc.ca/research/research-groups/microstructure/" style="color: #4c24e0; background-color: #e8f0ff"  target="_blank">Microstructure group</a> - The University of British Columbia - Vancouver  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/1920px-Flag_of_Canada_%28Pantone%29.svg.png" width="25" title="Canada">'
+      boss: <i>with Chad W. Sinclair</i>
+      details: |
+          - Modelisation of grain boundaries and atomistic segregation with a hybrid Molecular Dynamics method
+          - Post-processing of numerical data to build free energy diagrams
+
+    - role: '<p style="color: #4c24e0">Engineering internship</p> Evaluation of the control loads on a H175 helicopter'
+      time: 2017 (14 weeks)
+      company: '<a href="https://www.airbus.com/en/products-services/helicopters" style="color: #4c24e0; background-color: #e8f0ff"  target="_blank">Airbus Helicopters</a> - Marignane  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png" width="20" title="France">'
+
 
 certifications:
   title: Certifications
